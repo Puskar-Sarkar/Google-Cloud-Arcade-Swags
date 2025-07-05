@@ -6,7 +6,16 @@ I participated in the **Google Cloud Arcade 2024** challenge and successfully co
 
 ---
 
-## 🚀 My Public Skill Boost Profile
+## ✨ Highlights
+
+- ✅ Hands-on labs and real-world cloud infrastructure tasks  
+- 🏆 Multiple skill badges & quest completions  
+- 🎁 Awesome Google Cloud swags unlocked via #CloudArcade  
+- ☁️ Continuous learning with Google Cloud’s Skill Boost platform  
+
+---
+
+## ☁️ My Public Skill Boost Profile
 🔗 [Click here to view my profile](https://www.cloudskillsboost.google/public_profiles/7f08737e-732a-4401-bf79-af10a245d2c9)
 
 ---
@@ -19,7 +28,7 @@ I participated in the **Google Cloud Arcade 2024** challenge and successfully co
 
 ---
 
-## 🧠 Quests Completed
+## 📃 Quests Completed
 - Kubernetes in Google Cloud
 - Data Engineering on Google Cloud
 - Cloud Digital Leader
