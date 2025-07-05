@@ -20,7 +20,7 @@ Here I’ve documented my journey of earning Google Cloud swags by completing la
 - Badge of honor (literally) 🏅
 
 ## 📽️ YouTube Video
-🎥 [Watch the swag unboxing video here](#)(https://youtube.com/shorts/bzp5GgzCUmk)
+🎥 [Watch the swag unboxing video here](https://youtube.com/shorts/bzp5GgzCUmk)
 
 ## 🙌 Want to Join the Arcade?
 Start your journey today at: https://www.cloudskillsboost.google/
