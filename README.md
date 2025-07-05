@@ -123,17 +123,17 @@ Explore progress logs, milestones, and summaries of labs & quests:
 
 ---
 
+## 🏷️ Tags
+
+`#GoogleCloud` `#CloudArcade` `#Qwiklabs` `#GoogleCloudSkillsBoost`  
+`#GCP` `#SwagUnboxing` `#SwagDrop` `#Printo`  
+`#SkillsBoost` `#CloudEngineer` `#TechJourney` `#CloudReady` `#LearnToEarn`
+
+---
+
 ## 🙌 Want to Join the Arcade?
 Start your journey today at: https://www.cloudskillsboost.google/
 
 ---
 
 Feel free to ⭐ star or 🍴 fork this repo to start your own journey!
-
----
-
-## 🏷️ Tags
-
-`#GoogleCloud` `#CloudArcade` `#Qwiklabs` `#GoogleCloudSkillsBoost`  
-`#GCP` `#SwagUnboxing` `#SwagDrop` `#Printo`  
-`#SkillsBoost` `#CloudEngineer` `#TechJourney` `#CloudReady` `#LearnToEarn`
